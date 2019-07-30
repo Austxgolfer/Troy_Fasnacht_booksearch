@@ -1,5 +1,5 @@
-.Jumbotron {
+#bookcard {
   border-style: solid;
   border: 3px;
-  border-color: red;
+  border-color: blue;
 }
